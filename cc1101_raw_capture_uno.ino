@@ -7,7 +7,7 @@
  *   Pin 11 (MOSI) -> CC1101 MOSI (SI)
  *   Pin 12 (MISO) -> CC1101 MISO (SO)
  *   Pin 10        -> CC1101 CSN  (CS)
- *   Pin  2        -> CC1101 GDO0  (INT0)
+ *   Pin  2        -> CC1101 GDO0  (INT0) (Do0)
  *   3.3V          -> CC1101 VCC   *** NOT 5V! ***
  *   GND           -> CC1101 GND
  *
